@@ -18,12 +18,11 @@ public class Bird : MonoBehaviour
     public GameObject yellowBird;
     public GameObject redBird;
     public GameObject blueBird;
-
     public GameObject night;
     public GameObject day;
+    public GameObject endScreen;
 
     public TMP_Text birdScoreText;
-    public GameObject endScreen;
     int birdScore = 0;
 
     int skin;

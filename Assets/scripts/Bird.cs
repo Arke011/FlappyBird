@@ -22,6 +22,10 @@ public class Bird : MonoBehaviour
     public GameObject flashEffect;
     public GameObject tutorial;
 
+    public GameObject Bluebird;
+    public GameObject Yellowbird;
+    public GameObject Redbird;
+
     public AudioSource wingSound;
     public AudioSource deathSound;
     public AudioSource scoreSound;

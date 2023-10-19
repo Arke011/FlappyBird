@@ -785,6 +785,9 @@ MonoBehaviour:
   endScreen: {fileID: 823165189}
   flashEffect: {fileID: 1320893001}
   tutorial: {fileID: 406161526}
+  Bluebird: {fileID: 0}
+  Yellowbird: {fileID: 0}
+  Redbird: {fileID: 0}
   wingSound: {fileID: 1487924171}
   deathSound: {fileID: 1609337305}
   scoreSound: {fileID: 1971662333}
@@ -893,7 +896,7 @@ Animator:
   m_GameObject: {fileID: 459245062}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 469bc7965a6d90e4e937c29953cb21ff, type: 2}
+  m_Controller: {fileID: 9100000, guid: 4fbed3ee16977694bb0638de07aa394b, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1082,6 +1085,9 @@ MonoBehaviour:
   endScreen: {fileID: 823165189}
   flashEffect: {fileID: 1320893001}
   tutorial: {fileID: 406161526}
+  Bluebird: {fileID: 0}
+  Yellowbird: {fileID: 0}
+  Redbird: {fileID: 0}
   wingSound: {fileID: 1487924171}
   deathSound: {fileID: 1609337305}
   scoreSound: {fileID: 1971662333}
@@ -1147,7 +1153,7 @@ Transform:
   m_GameObject: {fileID: 545734941}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.044159, y: -1.81, z: 0.18936852}
+  m_LocalPosition: {x: -2.044159, y: -2.52, z: 0.18936852}
   m_LocalScale: {x: 0.49803296, y: 0.49803296, z: 0.49803296}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1190,7 +1196,7 @@ Animator:
   m_GameObject: {fileID: 545734941}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 469bc7965a6d90e4e937c29953cb21ff, type: 2}
+  m_Controller: {fileID: 9100000, guid: 6d9a98d7bc3f29e42803881d477d185e, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1236,7 +1242,7 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.49999955, y: 0.46022925}
     oldSize: {x: 2.125, y: 1.5}
     newSize: {x: 2.125, y: 1.5}
     adaptiveTilingThreshold: 0.5
@@ -1562,6 +1568,9 @@ MonoBehaviour:
   endScreen: {fileID: 823165189}
   flashEffect: {fileID: 0}
   tutorial: {fileID: 0}
+  Bluebird: {fileID: 0}
+  Yellowbird: {fileID: 0}
+  Redbird: {fileID: 0}
   wingSound: {fileID: 0}
   deathSound: {fileID: 0}
   scoreSound: {fileID: 0}
@@ -3560,6 +3569,9 @@ MonoBehaviour:
   endScreen: {fileID: 823165189}
   flashEffect: {fileID: 1320893001}
   tutorial: {fileID: 406161526}
+  Bluebird: {fileID: 0}
+  Yellowbird: {fileID: 0}
+  Redbird: {fileID: 0}
   wingSound: {fileID: 1487924171}
   deathSound: {fileID: 1609337305}
   scoreSound: {fileID: 1971662333}
@@ -3625,7 +3637,7 @@ Transform:
   m_GameObject: {fileID: 2140970153}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.1241589, y: -3.65, z: 0.18936852}
+  m_LocalPosition: {x: -2.1241589, y: -2.56, z: 0.18936852}
   m_LocalScale: {x: 0.49803296, y: 0.49803296, z: 0.49803296}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3668,7 +3680,7 @@ Animator:
   m_GameObject: {fileID: 2140970153}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 469bc7965a6d90e4e937c29953cb21ff, type: 2}
+  m_Controller: {fileID: 9100000, guid: 1c2f4b39fc03229489d5b57bd63e7870, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

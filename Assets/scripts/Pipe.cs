@@ -5,6 +5,7 @@ using UnityEngine;
 public class Pipe : MonoBehaviour
 {
     public static float speed;
+    
 
     // Update is called once per frame
     void Update()
@@ -16,4 +17,5 @@ public class Pipe : MonoBehaviour
             transform.position = new Vector3(-6, transform.position.y);
         }
     }
+    
 }
